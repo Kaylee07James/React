@@ -93,25 +93,10 @@
       "salary": "99000000",
       "company": {
         "name": "NEXA",
-        "description": "HR",
+        "description": "HI",
         "contactEmail": "joyy@gmail.com",
         "contactPhone": "09768583038"
       }
-    },
-    {
-      "title": "JJ",
-      "type": "Part-Time",
-      "location": "YGN",
-      "description": "abcd",
-      "salary": "Over $200K",
-      "company": {
-        "name": "PP",
-        "description": "IR",
-        "contactEmail": "jj@gmail.com",
-        "contactPhone": "0912274613"
-      },
-      "id": "Aur9pJPIPO0"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
